@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import LogoGlobant from '../../assets/LogoGlobant.png';
+import LogoGlobant from '../../assets/avatar.jpg';
 import './navbar.css';
 import { Link } from 'react-router-dom';
 import { Form } from '../Form/Form';
