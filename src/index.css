@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "roboto-regular";
+  src: url("Roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "roboto-medium";
+  src: url("Roboto/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "roboto-bold";
+  src: url("Roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "roboto-thin";
+  src: url("Roboto/Roboto-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+
+
+:root{
+  --background-color-white:#FFFFFF;
+  --background-color-pink:#CF6679;
+  --background-color-green:#C1D72F;
+  --background-color-green-light:#D7E57A;
+  --background-color-black:#231F20;
+  --background-color-black-light:#323232;
+
+
+  --color-white:#FFFFFF;
+  --color-pink:#CF6679;
+  --color-green:#C1D72F;
+  --color-black:#231F20;
+  --color-black-light:#323232;
+
+}
+*{
+  margin: 0;
+  padding: 0;    
+}
+button{
+  cursor: pointer;
+}
